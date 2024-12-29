@@ -22,7 +22,8 @@
 ## 📸 **Screenshots**  
 
 ### Desktop View 🖥️  
-![Desktop View](![image](https://github.com/user-attachments/assets/ad6846d9-b7bf-43d2-bd78-bd86518dbb86))
+![Desktop View](![Screenshot 2024-12-29 182501](https://github.com/user-attachments/assets/29589930-8c5b-4961-a9d5-da3a878739ba)
+)
 
 ### Mobile View 📱  
 ![Mobile View](https://via.placeholder.com/400x800?text=Mobile+Screenshot)
