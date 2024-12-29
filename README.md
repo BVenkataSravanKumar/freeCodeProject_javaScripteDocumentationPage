@@ -22,12 +22,12 @@
 ## 📸 **Screenshots**  
 
 ### Desktop View 🖥️  
-![Desktop View](![Screenshot 2024-12-29 182501](https://github.com/user-attachments/assets/29589930-8c5b-4961-a9d5-da3a878739ba)
-)
+![Screenshot 2024-12-29 182501](https://github.com/user-attachments/assets/29589930-8c5b-4961-a9d5-da3a878739ba)
+
 
 ### Mobile View 📱  
-![Mobile View](![Screenshot 2024-12-29 183231](https://github.com/user-attachments/assets/c5c01fc2-ffcc-4c52-af5f-5a4aa767efc9)
-)
+[Screenshot 2024-12-29 183231](https://github.com/user-attachments/assets/c5c01fc2-ffcc-4c52-af5f-5a4aa767efc9)
+
 
 ---
 
