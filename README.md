@@ -26,7 +26,7 @@
 
 
 ### Mobile View 📱  
-[Screenshot 2024-12-29 183231](https://github.com/user-attachments/assets/c5c01fc2-ffcc-4c52-af5f-5a4aa767efc9)
+![Screenshot 2024-12-29 183231](https://github.com/user-attachments/assets/c5c01fc2-ffcc-4c52-af5f-5a4aa767efc9)
 
 
 ---
