@@ -6,7 +6,7 @@
 
 **A beautiful and responsive JavaScript Documentation Page created using HTML and CSS.**  
 
-🌐 **Visit it here**: [Live Demo](https://bvenkatasravankumar.github.io/freeCodeProject_javaScripteDocumentationPage/)
+🌐 **Visit it here**: [Live Demo]([https://bvenkatasravankumar.github.io/freeCodeProject_javaScripteDocumentationPage/](https://bvenkatasravankumar.github.io/freeCodeProject_javaScripteDocumentationPage/))
 
 ---
 
@@ -22,7 +22,7 @@
 ## 📸 **Screenshots**  
 
 ### Desktop View 🖥️  
-![Desktop View](https://via.placeholder.com/800x400?text=Desktop+Screenshot)
+![Desktop View](![image](https://github.com/user-attachments/assets/ad6846d9-b7bf-43d2-bd78-bd86518dbb86))
 
 ### Mobile View 📱  
 ![Mobile View](https://via.placeholder.com/400x800?text=Mobile+Screenshot)
